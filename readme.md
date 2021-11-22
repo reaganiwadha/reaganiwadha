@@ -6,4 +6,4 @@ Hi! I'm a Backend Developer and a student. I like to tinker around stuff when I'
 ## 📘 My bookmarks
 * [Why Go Is Not Good](http://yager.io/programming/go.html)
 * [Backend Developer Roadmap](https://roadmap.sh/backend)
-
+* [MonolithFirst](https://www.martinfowler.com/bliki/MonolithFirst.html)
