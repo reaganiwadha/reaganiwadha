@@ -7,7 +7,7 @@
 > Some scenarios leaves you with choices that are really hard to determine, or even with no choices to begin with.
 
 #### PROMPT 25A
-> Doubting is only good when it leads you to a resolve
+> Doubting is only good when it leads you to a resolve.
 
 #### PROMPT 39
 > If I asked the question of what matters, can you come up with an answer?
