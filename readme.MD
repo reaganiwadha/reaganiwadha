@@ -5,7 +5,7 @@
 > If you really think about it, then maybe? 
 
 #### PROMPT 22
-> Some choices are really hard to determine, or maybe there are no choices to begin with.
+> Some scenarios leaves you with chocices that are really hard to determine, or even with no choices to begin with.
 
 #### PROMPT 39
 > If I asked the question of what matters, can you come up with an answer?
