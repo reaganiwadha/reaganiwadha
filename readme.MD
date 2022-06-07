@@ -1,16 +1,15 @@
-[https://genericfilter.quest](site)
-[mailto:reaganiwadha@outlook.com](mail)
+[site](https://genericfilter.quest) | [mail](mailto:reaganiwadha@outlook.com)
 
 
-#### PROMPT 1
+#### PROMPT 16
 > If you really think about it, then maybe? 
 
-#### PROMPT 2
+#### PROMPT 22
 > Some choices are really hard to determine, or maybe there are no choices to begin with.
 
-#### PROMPT 3
+#### PROMPT 39
 > If I asked the question of what matters, can you come up with an answer?
 
-#### PROMPT 4 - END OF STREAM
-> Keep doubting and come up with something, or `nothing`.
+#### PROMPT 113 - END OF STREAM
+> Keep doubting and come up with `something` or `nothing`.
 
