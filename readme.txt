@@ -4,6 +4,6 @@ Some choices are really hard to determine, or maybe there are no choices to begi
 
 If I asked the question of what matters, can you come up with an answer?
 
-Keep doubting, and come up with something.
+Keep doubting and come up with something.
 
 https://genericfilter.quest
